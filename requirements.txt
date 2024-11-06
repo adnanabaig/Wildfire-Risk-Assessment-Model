@@ -1,0 +1,8 @@
+h5py
+matplotlib
+numpy
+tensorflow
+scipy
+hdf5plugin
+scikit-image
+scikit-learn
